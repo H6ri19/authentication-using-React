@@ -19,12 +19,16 @@ just post link belows:
 https://www.postman.com/
 sign your account 
 
-npm i express-async-handler
+npm i express-async-handler,
 create a account and download monogdb compress 
 
-npm i bcryptjs
+npm i bcryptjs,
 npm i jsonwebtoken 
 
-npm i react-router-dom
+npm i react-router-dom,
 npm i -D concurrently
 
+
+npm run client :client Entry on work size ,one more think admit can not acress password and key,
+npm run server :work on server only ,
+npm run dev : it one both side at time 
